@@ -1,0 +1,101 @@
+
+<html>
+<head>
+    
+    <title>Valley Public School</title>
+    <style>
+       
+    body {font-family:times-new-roman;
+        margin: 20px;
+        }
+
+          section {background-color: white;
+        padding: 15px;   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        margin-bottom: 15px}
+table{width: 70%;
+        border: 0px ;  padding: 10px}
+        th {background-color: black;
+            color: white;}
+</style>
+
+</head>
+<body>
+    
+      <b><font size="40"><img src="valley.jpeg" alt="Valley Public School Logo" width="60" height="60">Valley Public School</font></b>
+ <p><h1>Lamatar, Lalitpur | Established 1996</p></h1>
+<nav><align="right"><A href="#about">About us</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<align="right"><A href="#feature">Features</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<A href="#our mission">Our Mission</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<align="right"><A href="#overview">Overview</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<align="right"><A href="#admission guidelines">Admission Guidlines</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<align="right"><A href="#academies">Academies and Students</a>&nbsp;&nbsp;<br>
+<center><A href="#"></a></nav></center>
+       
+    
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Valley Public School is a well-known educational institution that is dedicated to providing a fun and transformative learning experience. Established in 1996 in Lamatar, Lalitpur with just 100 students ranging from nursery to grade nine, the school has since grown to accommodate nearly 800 students in classes up to grade 10.</p>
+        <p>Located just 20 minutes from Gwarko in the eastern part of the city, the school spans across 4.5 ropani of peaceful land and is renowned for providing outstanding SLC/SEE results every year.</p>
+    </section>
+
+    <section id="feature">
+        <h2>Our Features</h2>
+        <ul>
+            <li>Innovative teaching methods and modern technology</li>
+            <li>Overhead projectors, AV gadgets, multimedia systems</li>
+            <li>Hi-tech computer labs</li>
+            <li>E-learning tools like E-Midas class, IC-Mas, CPS/CPRS</li>
+            <li>Strong focus on extracurricular activities</li>
+        </ul>
+    </section>
+
+    <section id="our mission">
+        <h2>Our Mission</h2>
+        <p>At Valley Public School, the goal is to instill self-confidence, analytical skills, discipline, and respect in all students. The school boasts a team of highly qualified and experienced educators who are dedicated to promoting academic excellence and holistic development.</p>
+    </section>
+
+    <section id="overview">
+        <h2>School Overview</h2>
+        <p><strong>Levels:</strong> 1–10</p>
+        <p><strong>Total Students:</strong> 971</p>
+    </section>
+
+    <section id="admission guidlines">
+        <h2>Admission Guidelines</h2>
+        <p>Once admissions are open, students can get the admission form from the school premises. They will be required to attend an entrance examination conducted within the school premises. Upon passing the exam, the students, along with a parent, will be called back for an interview. Should they pass the interview, the further admission process can begin.</p>
+    </section>
+
+    <section id="academics">
+        <h2>Academics and Students</h2>
+        <table border="1" margin-top="10" >
+ 
+            
+                <tr>
+                    <th>Grade</th>
+                    <th>Number of Students</th>
+                </tr>
+        
+                <tr><td>1</td><td>100</td></tr>
+                <tr><td>2</td><td>67</td></tr>
+                <tr><td>3</td><td>68</td></tr>
+                <tr><td>4</td><td>75</td></tr>
+                <tr><td>5</td><td>80</td></tr>
+                <tr><td>6</td><td>86</td></tr>
+                <tr><td>7</td><td>75</td></tr>
+                <tr><td>8</td><td>82</td></tr>
+                <tr><td>9</td><td>57</td></tr>
+                <tr><td>10</td><td>61</td></tr>
+                <tr><th background-color: #555>Total Students</th><th>971</th></tr>
+           
+        </table>
+    </section>
+<section id="end">
+<h1><b>FOR MORE INFORMATION:</h1>
+Phone Num.:01-5580355, 01-5582556<br>
+<A href=https://edusanjal.com/school/valley-public-school/>Edu sanjal.com</a><br>
+Facebook:<A href=https://www.facebook.com/School.VPS>Valley Public School</a><br>
+Email:valleypublicschool1996@gmail.com
+
+</body>
+</html>
